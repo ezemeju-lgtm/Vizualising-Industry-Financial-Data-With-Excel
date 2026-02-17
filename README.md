@@ -30,3 +30,8 @@ To perform data cleaning and wrangling with this dataset from HMRC which gave an
 | Blank rows in pivot table | Two types of blanks (formula vs blank data) | Standardised all blanks to "Unknown" |
 | Missing regional data | Couldn't analyse by location | Imported external geographic data and merged it |
 
+## Findings Include
+- March as most  common month for incorporation
+- Highest Groth Sector - Retail
+- Lowest Growth Sector - Mainteanance
+- Highest Turnover Region - London
