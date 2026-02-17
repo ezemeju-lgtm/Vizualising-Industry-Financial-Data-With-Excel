@@ -5,6 +5,7 @@
 ## Project Overview
 To perform data cleaning and wrangling with this dataset from HMRC which gave an analysis into the high performing industries across various regions in the UK to derive various insights that would be beneficial to public bodies.
 
+Download Dataset for the projet here - https://github.com/ezemeju-lgtm/Vizualising-Industry-Financial-Data-With-Excel/blob/main/Data%20(1).xlsx 
 ## Dataset Includes
 - Company Category
 - Company Status
