@@ -36,3 +36,5 @@ Download Dataset for the projet here - https://github.com/ezemeju-lgtm/Vizualisi
 - Highest Groth Sector - Retail
 - Lowest Growth Sector - Mainteanance
 - Highest Turnover Region - London
+
+  
