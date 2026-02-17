@@ -1,4 +1,4 @@
-# Vizualising-Industry-Financial-Data-With-Excel
+#Vizualising-Industry-Financial-Data-With-Excel
 AIM: To perform data cleaning and wrangling with this dataset from HMRC which gave an analysis into the high performing industries across various regions in the UK to derive various insights that would be benefical to the public bodies.
 DATA : Company category, Company Status, Region, Country, Company Category etc
 
@@ -12,7 +12,7 @@ DATA : Company category, Company Status, Region, Country, Company Category etc
 
 DATA CLEANING
 
-Original Issue	What Was Wrong	How I Fixed It
+Original Issues And ow They Were Fixed
 Duplicates not addressed	50,039 records with possible repeats	Removed duplicates, down to 50,009, then removed summary row
 Wrong date format	US dates in a UK dataset	Converted to UK format using Excel date functions
 Pre-1900 dates	Excel couldn't recognise them	Used formulas to extract year, manually entered months where needed
